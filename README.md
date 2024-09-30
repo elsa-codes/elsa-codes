@@ -8,7 +8,7 @@ I'm passionate about Data Science and Analytics with initial experience in **bui
 
 - 🌱 Currently learning: **AI & Machine Learning - focus on Logistics**
 - 🌍 Languages: **Python, English and French**
-- 📫 How to reach me: **Elsa Bendine on LinkedIn **
+- 📫 How to reach me: [Elsa Bendine on LinkedIn](https://www.linkedin.com/in/elsa-bendine?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq5lFycboSgCrTfI4Z5t6EQ%3D%3D)
 
 
 ## My Skills 🧠
