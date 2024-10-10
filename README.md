@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm passionate about Data Science and Analytics with initial experience in **building ML models**. I love tackling complex problems, am excited about learning new skills in the vast AI and ML world! I love collaborating with diverse teams to create innovative solutions, and look forward to share more projects and collaborate on the community's initiatives!.
+I'm an aspiring Data Scientist with passion for all **ML-related projects!** and a taste for **crisp Analytics** . I love tackling complex problems, and I am excited about learning new skills in the vast AI and ML world! I love collaborating with diverse teams to create innovative solutions, and look forward to share more projects and collaborate on the community's initiatives!.
 
 - 🌱 Currently learning: **AI & Machine Learning - focus on Logistics**
 - 🌍 Languages: **Python, English and French**
