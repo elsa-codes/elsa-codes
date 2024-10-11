@@ -19,7 +19,7 @@ I'm an aspiring Data Scientist with passion for all **ML-related projects!** and
 
 
 ## My Projects 🌱
-- Loan Default Predictive Modelling : https://github.com/elsa-codes/ML_LoanDefault 
+- Loan Default Predictive Modelling : [Loan_Default_Script_ML.ipynb](https://github.com/elsa-codes/ML_LoanDefault/blob/185151588556d7c474b5dffd9fa22613b1735bc8/Loan_Default_Script_ML.ipynb)  
 - New Client Prediction with Lead Conversion Analysis and Modeling : [Lead_Conversion_ML.ipynb](https://github.com/elsa-codes/ML_NewClients_LeadConversionPrediction/blob/a38a78b268aad6669683185c7425d65593210c74/Lead_Conversion_ML.ipynb)  
 - PostgreSQL Analysis & PowerBI Viz : https://github.com/elsa-codes/SQL_Projects
 -  
