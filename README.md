@@ -18,5 +18,6 @@ I'm an aspiring Data Scientist with passion for all **ML-related projects!** and
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 
-
-
+## My Projects 🌱
+- PostgreSQL Analysis & PowerBI Viz : ![https://github.com/elsa-codes/SQL_Projects]
+-  
