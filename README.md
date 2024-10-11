@@ -19,5 +19,5 @@ I'm an aspiring Data Scientist with passion for all **ML-related projects!** and
 
 
 ## My Projects 🌱
-- PostgreSQL Analysis & PowerBI Viz : ![https://github.com/elsa-codes/SQL_Projects]
+- PostgreSQL Analysis & PowerBI Viz : https://github.com/elsa-codes/SQL_Projects
 -  
